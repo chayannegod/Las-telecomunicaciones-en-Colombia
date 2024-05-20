@@ -57,7 +57,7 @@ c. El sistema de multiportadora transmite la información en N subcanales sin pr
 de la señal transmitida es mucho mayor que el mínimo necesario para
 transportar la información. por lo tanto, es valido decir:
 
-a. La secuencia directa, DS, es una técnica de espectro ensanchado. La señal de
+a. La secuencia directa, DS, es una técnica de espectro ensanchado. La señal de           1 correcto
 información se multiplica por el código de expansión pseudo-aleatorio
 b. El salto de frecuencia, FH, no es una técnica de espectro ensanchado. La frecuencia
 de la portadora varía en función del código
@@ -83,7 +83,7 @@ d. El desensanchado en la recepción se hace aplicando un filtro paso bajo a la 
 5. si tenemos un sistema movil con WCDMA, podemos decir lo siguiente
 (seleccione todas las que considere verdaderas):
 
-a. Se realiza hard-handover, y por lo tanto, requerimos menos potencia en el cambio
+a. Se realiza hard-handover, y por lo tanto, requerimos menos potencia en el cambio             1 correcto
 entre celdas
 b. Todas Las celdas (celulas) de 3G usan la misma Frecuecias y por lo tanto no es
 necesario hacer handover
@@ -91,4 +91,32 @@ c. Utiliza sistema Rake, lo que permite mitigar hasta seis ramas multitrayecto
 d. Al tener codigos de longitud no variable, se garantiza tener la misma tasa de
 trasmisión para todos los usuarios
 
+6. La conmutación automática de una llamada de celular en curso a otra celda, se
+conoce como(seleccion unica):
+a. handover                                                                                     1 correcto
+b. Itinerancia
+c. roaming
+d. ninguna
 
+7. Cuál es la diferencia entre OFDMA y CDMA
+a. OFDMA selecciona las subportadores con la menor degradación de canal y de esta               1 correcto
+manera se garantiza mayor capacidad del sistema
+b. ninguna, ambas técnicas de acceso al medio mitigan el desvanecimiento por
+multitrayecto
+c. OFDMA al usar todo el espectro, debe disminuir la potencia de transmisión lo que
+mejora la tasa de tras
+d. OFDMA no es multiusuario, y permite una mayor eficiencia espectral
+
+8. ¿Cuál es el ancho de banda del sistema UMTS?
+a. 2Mbps
+b. 144Kbps
+c. 1Mbps
+d. Ninguna de las anteriores                                                                    1 correcto
+
+UMTS utiliza una adaptación de banda ancha CDMA con un canal de 5 MHz de ancho.
+
+9. Cuál es la latencia entre la estación móvil y la estación base en una red 4G?
+a. 10ms
+b. 100ms
+b. 1ms
+c. Ninguna
