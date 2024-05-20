@@ -116,7 +116,35 @@ d. Ninguna de las anteriores                                                    
 UMTS utiliza una adaptación de banda ancha CDMA con un canal de 5 MHz de ancho.
 
 9. Cuál es la latencia entre la estación móvil y la estación base en una red 4G?
-a. 10ms
+a. 10ms                                                                                             1 correcto
 b. 100ms
 b. 1ms
 c. Ninguna
+
+La latencia típica entre la estación móvil y la estación base en una red 4G suele 
+ser de alrededor de 10 ms en condiciones ideales. Este valor puede variar dependiendo de factores
+como la congestión de la red y la distancia física entre los puntos de conexión.
+
+10. que técnica de acceso múltiple medio usa UMTS?
+a. FDMA
+b. TDMA
+c. OFDMA
+d. WCDMA                                                                                           1 correcto
+
+La técnica de acceso múltiple usada en UMTS (Universal Mobile Telecommunications System)
+es WCDMA (Wideband Code Division Multiple Access).
+
+
+11. ¿Cuales son las tasa binaria para transmitir datos en la red sistema GSM, si el
+ancho de la portadora es de 200Mhz?
+a. 9600 bps                                                                                        1 correcto
+b. 19200 bps
+c. 200 bps
+d. 400 bps
+
+9600 bps es una de las tasas de datos comunes para la transmisión de datos
+en GSM utilizando tecnologías como Circuit-Switched Data (CSD).
+
+
+
+
