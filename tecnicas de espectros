@@ -155,4 +155,72 @@ b. 60
 c. 280
 d. 70                                                                                              1 correcto
 
+13. Las técnicas WCDMA sirven para
+a. Mitigar los efectos de las interferencias de Banda Ancha
+b. Mitigar los efectos de las interferencias de Banda estrecha
+c. Mitigar los efectos de multitrayecto
+d. todas las anteriores                                                                            1 correcto
+
+Dado que WCDMA es una tecnología de acceso múltiple que utiliza un espectro amplio y técnicas de modulación avanzadas,
+es efectiva en manejar múltiples tipos de interferencias y efectos de canal.
+
+14. Cuantos radio-enlaces se establecen entre la estación móvil y la estación base
+de un sistema de comunicaciones de tercera generación
+a. 1 radio enlace
+b. 2 radio enlace
+c. depende de número de frecuencias de la celda                                                   1 correcto
+d. ninguna de la anterior
+
+
+En los sistemas de comunicaciones de tercera generación (3G), específicamente en redes UMTS que utilizan WCDMA,
+la cantidad de radioenlaces entre la estación móvil (UE) y la estación base (Node B) puede variar. Esto se debe a
+que las tecnologías 3G permiten el uso de múltiples frecuencias y técnicas de diversidad de recepción y transmisión.
+
+15. ¿Cuáles son las ventajas de una red 4G LTE sobre una red UMTS?
+a. Eficiencia espectral
+b. Bajo consumo de energía
+c. Bajo consumo de energía y eficiencia espectral                                                   1 correcto
+d. Ninguna
+
+Las redes 4G LTE son superiores a las redes UMTS en términos de eficiencia espectral y bajo consumo de energía.
+
+16. De los siguientes sistemas de comunicaciones cuáles no son un sistema de
+comunicación móvil (seleccione todas las que considere )
+a. UMTS
+d. zigbee                                                                                    1 correcto
+c. bluetooth                                                                                 1 correcto
+d. GPRS
+
+No son Sistemas de Comunicación Móvil:
+Zigbee
+
+Descripción: Es un estándar de comunicación inalámbrica de baja potencia y corto alcance basado en IEEE 802.15.4.
+Aplicaciones: Utilizado principalmente en redes de sensores y automatización del hogar, no está diseñado para comunicaciones móviles a gran escala.
+Bluetooth
+
+Descripción: Es un estándar de tecnología inalámbrica para el intercambio de datos a corta distancia usando ondas de radio UHF en la banda ISM.
+Aplicaciones: Usado para conectar dispositivos personales como auriculares, teléfonos, y computadoras, pero no se considera una
+tecnología de comunicación móvil en el mismo sentido que UMTS o GPRS.
+
+
+17. ¿Cuál es la técnica de acceso utilizada por una red LTE o LTE-A?
+a. WCDMA
+b. OFDMA                                                                                    1 correcto
+c .PDMA
+d. FDMA
+
+18 en apartado 12_18.md
+
+19.En la celda (celula) de un sistema de comunicaciones móviles de segunda
+generación encontramos
+a. Una estación Base y un grupo de frecuencias                                              1 correcto
+b. Una estación Móvil y varias estaciones base
+c. El registro de ubicación base
+d. central de conmutación movil
+
+Estación Base (BTS - Base Transceiver Station): Esta es la infraestructura que comunica directamente con los dispositivos móviles dentro de la celda. 
+Cada estación base está equipada con antenas y equipos de transmisión y recepción.
+Grupo de frecuencias: Cada celda utiliza un conjunto de frecuencias específicas para la comunicación.
+Estas frecuencias se gestionan para minimizar la interferencia con celdas adyacentes.
+
 
