@@ -1,0 +1,94 @@
+1- El uso de las técnicas de espectro ensanchado permite las siguientes ventajas,
+respecto a sistemas sin ensanchar: (seleccione cuantas sean verdad) 
+
+a. La potencia de la señal de información a transmitir se distribuye en un espectro mas     1 correcto
+ancho, lo que conlleva a reducción la densidad espectral de potencia.
+b. Las perturbaciones debido al multitrayecto son mucho mas pequeñas.                       1 correcto
+c. Aumentar la tasa de transferencia de los información, debido a que el tiempo de bit
+disminuye.
+d. Se obtiene un mayor BER con el mismo Eb/No.
+
+Las técnicas de espectro ensanchado proporcionan ciertas ventajas en comparación con los sistemas sin ensanchar. Las afirmaciones correctas son:
+
+a. La potencia de la señal de información a transmitir se distribuye en un espectro más ancho, lo que conlleva a reducción la densidad espectral de potencia.
+b. Las perturbaciones debido al multitrayecto son mucho más pequeñas.
+
+Las otras afirmaciones no son correctas:
+
+c. Aumentar la tasa de transferencia de la información, debido a que el tiempo de bit disminuye. (Esto no es una ventaja directa del espectro ensanchado; la tasa de transferencia depende de otros factores del sistema.)
+d. Se obtiene un mayor BER con el mismo Eb/No. (El espectro ensanchado en realidad tiende a mejorar la resistencia a las interferencias y el ruido, lo que debería reducir el BER, no aumentarlo.)
+
+Por lo tanto, las afirmaciones verdaderas son:
+
+a y b.
+
+2. ¿Cual es la diferencia entre FDM y OFDM?
+
+a. EN OFDM, cada portadora es ortogonal al resto de portadoras y en FDM se asigna    1 correcto
+todos los canales a un usuario                                                     
+b. Las bandas de guarda entre canales en FDM son menores que las de OFDM. Por lo
+tanto, FDM tienen una mejor la eficiencia del espectro
+c. La eficiencia espectral en OFDM, se base en su sistema multiportador. y en FDM se
+requiere menor ancho de banda por ser mono-portadora
+d. FDM tiene tantos usuarios como canales, ya que asigna cada canal a un usuario.
+OFDM asigna todos los canales a un usuario, y no requiere banda de guarda
+
+La opción correcta es la a.
+La principal diferencia entre FDM (Frequency Division Multiplexing) y OFDM (Orthogonal Frequency Division Multiplexing)
+es que en OFDM, cada portadora es ortogonal al resto de portadoras, lo que significa que no hay interferencia entre ellas,
+permitiendo una mayor eficiencia espectral. En FDM, cada canal es asignado a un usuario y se utilizan bandas de guarda para evitar
+la interferencia entre los canales, lo cual puede resultar en una menor eficiencia espectral en comparación con OFDM.
+
+3. Qué diferencia OFDMA de OFDM(respuesta multiple)
+
+a. Ninguna
+b. Es una versión Multi-usuario del sistema de modulación por división de frecuencia      1 correcto
+ortogonal. El número de subportadores se asigna al usuario en fución de la velocidad
+que este necesita
+c. el sistema de multiportadora trasmite la información en N subcanales sin prefijo
+ciclico
+d. cada subportadora se modula con un esquema de modulación diferente                     1 correcto
+
+a. Ninguna. (Esta afirmación es incorrecta porque sí hay diferencias entre OFDM y OFDMA.)
+c. El sistema de multiportadora transmite la información en N subcanales sin prefijo cíclico.
+(Esta afirmación es incorrecta porque tanto OFDM como OFDMA pueden usar un prefijo cíclico para manejar las interferencias entre símbolos.)
+
+4. Los sistemas de espectro ensanchado son aquellos en los que el ancho de banda
+de la señal transmitida es mucho mayor que el mínimo necesario para
+transportar la información. por lo tanto, es valido decir:
+
+a. La secuencia directa, DS, es una técnica de espectro ensanchado. La señal de
+información se multiplica por el código de expansión pseudo-aleatorio
+b. El salto de frecuencia, FH, no es una técnica de espectro ensanchado. La frecuencia
+de la portadora varía en función del código
+c. La afirmación del enunciado es falsa, ya que el ancho de banda de la señal
+transmitida no varia en las técnicas de espectro ensanchado
+d. El desensanchado en la recepción se hace aplicando un filtro paso bajo a la señal
+recibida
+
+afirmaciones válidas son:
+
+a. La secuencia directa, DS, es una técnica de espectro ensanchado. La señal de información se multiplica por el código de expansión pseudo-aleatorio.
+
+Las otras afirmaciones no son correctas:
+
+b. El salto de frecuencia, FH, no es una técnica de espectro ensanchado. 
+La frecuencia de la portadora varía en función del código.
+(Esta afirmación es incorrecta porque el salto de frecuencia, FH, sí es una técnica de espectro ensanchado.)
+c. La afirmación del enunciado es falsa, ya que el ancho de banda de la señal transmitida no varía
+en las técnicas de espectro ensanchado. (Esta afirmación es incorrecta porque el ancho de banda sí se ensancha en las técnicas de espectro ensanchado.)
+d. El desensanchado en la recepción se hace aplicando un filtro paso bajo a la señal recibida.
+(Esta afirmación es incorrecta porque el desensanchado se hace mediante correlación con el mismo código de expansión en la recepción, no solo con un filtro paso bajo.)
+
+5. si tenemos un sistema movil con WCDMA, podemos decir lo siguiente
+(seleccione todas las que considere verdaderas):
+
+a. Se realiza hard-handover, y por lo tanto, requerimos menos potencia en el cambio
+entre celdas
+b. Todas Las celdas (celulas) de 3G usan la misma Frecuecias y por lo tanto no es
+necesario hacer handover
+c. Utiliza sistema Rake, lo que permite mitigar hasta seis ramas multitrayecto
+d. Al tener codigos de longitud no variable, se garantiza tener la misma tasa de
+trasmisión para todos los usuarios
+
+
