@@ -145,6 +145,14 @@ d. 400 bps
 9600 bps es una de las tasas de datos comunes para la transmisión de datos
 en GSM utilizando tecnologías como Circuit-Switched Data (CSD).
 
-
+12. Se necesita trasmitir una comunicación inalámbrica a una tasa de trasmisión
+Rb=100 Mbit/s y con ancho de banda BW=35 MHz en un sistema OFDM con
+modulación 16QAM. b) El sistema OFDM se diseña con un tiempo de guarda
+TG=400ns (tiempo que dura el prefijo cíclico) y un periodo de símbolo TS=2.4µs.
+Calcule el número de portadoras del sistema.
+a. 41
+b. 60
+c. 280
+d. 70                                                                                              1 correcto
 
 
