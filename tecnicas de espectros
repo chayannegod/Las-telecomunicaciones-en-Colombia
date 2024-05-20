@@ -223,4 +223,29 @@ Cada estación base está equipada con antenas y equipos de transmisión y recep
 Grupo de frecuencias: Cada celda utiliza un conjunto de frecuencias específicas para la comunicación.
 Estas frecuencias se gestionan para minimizar la interferencia con celdas adyacentes.
 
+20. ¿Porqué se utiliza OFDM en vez de espectro ensanchado en transceptores
+digitales inalámbricos de alta tasa?
+a. El espectro utilizado es muy grande en OFDM respecto a espectro ensanchado, lo que
+mejora la tasa de transmisión
+b. El tiempo de símbolo en las técnicas de espectro ensanchado es mayor con respecto
+a OFDM y esto limita la tasa de transmisión
+c. El tiempo de símbolo es proporcional a la cantidad de portadores, lo que hace que
+OFDM sea el mas apto para altas tasas de trasnmisión
+d. Todas las anteriores                                                                        1 correcto
+
+Todas las opciones anteriores mencionan aspectos técnicos correctos que hacen de OFDM una elección preferida para transceptores digitales inalámbricos de alta tasa.
+La combinación de la eficiencia espectral, el manejo del tiempo de símbolo y la capacidad de soportar altas tasas de transmisión mediante el uso de múltiples 
+subportadoras ortogonales hace que OFDM sea superior a las técnicas de espectro ensanchado en este contexto
+
+21. La función de Central de Conmutación Móvil en la red GSM es :
+a. Control de comunicaciones desde y hacia los abonados
+b. Control de Estaciones Base Interconexión con otros CCM y la RTPC
+c. Todas las anteriores
+d. Ninguna de la anteriores                                                                         1 correcto
+
+
+links:
+https://es.wikipedia.org/wiki/Sistema_global_para_las_comunicaciones_m%C3%B3viles
+https://biblus.us.es/bibing/proyectos/abreproy/12081/fichero/OFDMA+y+SC-FDMA+en+la+Interfaz+Radio+de+LTE%252F4.+T%C3%A9cnicas+de+acceso+m%C3%BAltiple.+OFDMA+y+SC-FDMA.pdf
+https://ieeexplore.ieee.org/document/7061225
 
